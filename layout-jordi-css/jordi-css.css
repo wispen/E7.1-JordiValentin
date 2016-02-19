@@ -1,0 +1,54 @@
+
+.logo{
+background-color: #D7D7D7;
+text-align: center;
+margin-top: -5px;
+padding: 5px;
+}
+
+.fondosuperior {
+  background-color: #000000;
+  color: #FFFFFF;
+  height: 70px;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.imagen {
+  background-color: #E4E4E4;
+  height: 250px;
+  width: 150px;
+  margin-top: 35px;
+}
+
+.texto1{
+  text-align: center;
+  font-size: 70px;
+  color: #959595;
+  padding-top: 70px;
+}
+
+.texto2{
+  font-size: 11px;
+  margin-top: 40px;
+}
+
+.cuadrocentral{
+  text-align: center;
+  font-size: 11px;
+  background-color: #F0F0F0;
+  margin-top: 20px;
+  height: 40px;
+  padding: 12px;
+}
+
+.texto3{
+  text-align: justify;
+  font-size: 12px;
+  margin-top: 30px;
+}
+
+.enlaces{
+  font-size: 12px;
+  margin-top: 10px;
+}
